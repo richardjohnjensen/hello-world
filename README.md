@@ -2,6 +2,6 @@
 Follow guide
 
 
-FOllowing tutorial https://guides.github.com/activities/hello-world/
+Following tutorial https://guides.github.com/activities/hello-world/
 
 
